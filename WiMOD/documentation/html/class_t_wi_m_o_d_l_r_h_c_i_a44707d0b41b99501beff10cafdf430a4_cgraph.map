@@ -1,0 +1,4 @@
+<map id="TWiMODLRHCI::GetRxMessage" name="TWiMODLRHCI::GetRxMessage">
+<area shape="rect" id="node2" href="$_c_r_c16_8cpp.html#a93a1b56a0fda275037fcbd50937e3cde" title="calculate CRC16 " alt="" coords="295,29,391,56"/>
+<area shape="rect" id="node3" href="$class_t_wi_m_o_d_l_r_h_c_i.html#aaaf7afaca1ddfed5d53b1dcf09941be6" title="Handle the receiver path; process all incomming bytes from the WiMOD. " alt="" coords="260,80,425,107"/>
+</map>

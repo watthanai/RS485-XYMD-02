@@ -1,0 +1,5 @@
+<map id="TWiMODLRHCI::SendHCIMessage" name="TWiMODLRHCI::SendHCIMessage">
+<area shape="rect" id="node2" href="$class_t_wi_m_o_d_l_r_h_c_i.html#a2ce799685f27d0eab46939b7ca26d9f5" title=": Send a sequence of dummy chars to give the WiMOD some time to wake up " alt="" coords="276,29,532,56"/>
+<area shape="rect" id="node3" href="$_c_r_c16_8cpp.html#aacacda4793c542839f3663904dd8b29f" title="calculate &amp; test CRC16 " alt="" coords="580,29,687,56"/>
+<area shape="rect" id="node4" href="$_c_r_c16_8cpp.html#a93a1b56a0fda275037fcbd50937e3cde" title="calculate CRC16 " alt="" coords="735,29,831,56"/>
+</map>
